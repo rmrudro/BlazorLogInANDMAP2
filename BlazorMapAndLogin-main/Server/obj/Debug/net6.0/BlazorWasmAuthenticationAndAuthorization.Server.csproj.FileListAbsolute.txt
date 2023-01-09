@@ -1,0 +1,178 @@
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Client.staticwebassets.runtime.json
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.staticwebassets.runtime.json
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.exe
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.deps.json
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.runtimeconfig.json
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.pdb
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Blazored.SessionStorage.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Client.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Client.pdb
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.pdb
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.csproj.AssemblyReference.cache
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.AssemblyInfoInputs.cache
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.AssemblyInfo.cs
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.csproj.CoreCompileInputs.cache
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.RazorAssemblyInfo.cache
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.RazorAssemblyInfo.cs
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\staticwebassets\msbuild.BlazorWasmAuthenticationAndAuthorization.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorWasmAuthenticationAndAuthorization.Server.props
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorWasmAuthenticationAndAuthorization.Server.props
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorWasmAuthenticationAndAuthorization.Server.props
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\scopedcss\bundle\BlazorWasmAuthenticationAndAuthorization.Server.styles.css
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.csproj.CopyComplete
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\refint\BlazorWasmAuthenticationAndAuthorization.Server.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.pdb
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.genruntimeconfig.cache
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\ref\BlazorWasmAuthenticationAndAuthorization.Server.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\appsettings.json
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Client.staticwebassets.runtime.json
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.staticwebassets.runtime.json
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.exe
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.deps.json
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.runtimeconfig.json
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.pdb
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Blazored.SessionStorage.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Client.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Client.pdb
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.pdb
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.csproj.AssemblyReference.cache
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.AssemblyInfoInputs.cache
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.AssemblyInfo.cs
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.csproj.CoreCompileInputs.cache
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.RazorAssemblyInfo.cache
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.RazorAssemblyInfo.cs
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\staticwebassets\msbuild.BlazorWasmAuthenticationAndAuthorization.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorWasmAuthenticationAndAuthorization.Server.props
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorWasmAuthenticationAndAuthorization.Server.props
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorWasmAuthenticationAndAuthorization.Server.props
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\scopedcss\bundle\BlazorWasmAuthenticationAndAuthorization.Server.styles.css
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.csproj.CopyComplete
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\refint\BlazorWasmAuthenticationAndAuthorization.Server.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.pdb
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.genruntimeconfig.cache
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Server\obj\Debug\net6.0\ref\BlazorWasmAuthenticationAndAuthorization.Server.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\appsettings.json
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Client.staticwebassets.runtime.json
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.staticwebassets.runtime.json
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.exe
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.deps.json
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.runtimeconfig.json
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.pdb
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Blazored.SessionStorage.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Client.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Client.pdb
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.pdb
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.csproj.AssemblyReference.cache
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.AssemblyInfoInputs.cache
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.AssemblyInfo.cs
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.csproj.CoreCompileInputs.cache
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.RazorAssemblyInfo.cache
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.RazorAssemblyInfo.cs
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\obj\Debug\net6.0\scopedcss\bundle\BlazorWasmAuthenticationAndAuthorization.Server.styles.css
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.csproj.CopyComplete
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\obj\Debug\net6.0\refint\BlazorWasmAuthenticationAndAuthorization.Server.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.pdb
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Server.genruntimeconfig.cache
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Server\obj\Debug\net6.0\ref\BlazorWasmAuthenticationAndAuthorization.Server.dll

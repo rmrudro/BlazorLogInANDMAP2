@@ -1,0 +1,36 @@
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Shared\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.deps.json
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Shared\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Shared\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.pdb
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.csproj.AssemblyReference.cache
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.AssemblyInfoInputs.cache
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.AssemblyInfo.cs
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.csproj.CoreCompileInputs.cache
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\refint\BlazorWasmAuthenticationAndAuthorization.Shared.dll
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.pdb
+C:\Users\m-rifat\Source\Repos\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\ref\BlazorWasmAuthenticationAndAuthorization.Shared.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Shared\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.deps.json
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Shared\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Shared\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.pdb
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.csproj.AssemblyReference.cache
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.AssemblyInfoInputs.cache
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.AssemblyInfo.cs
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.csproj.CoreCompileInputs.cache
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\refint\BlazorWasmAuthenticationAndAuthorization.Shared.dll
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.pdb
+D:\my project\Highway\BlazorWasmAuthenticationAndAuthorization\Shared\obj\Debug\net6.0\ref\BlazorWasmAuthenticationAndAuthorization.Shared.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Shared\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.deps.json
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Shared\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Shared\bin\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.pdb
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.csproj.AssemblyReference.cache
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.AssemblyInfoInputs.cache
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.AssemblyInfo.cs
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.csproj.CoreCompileInputs.cache
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Shared\obj\Debug\net6.0\refint\BlazorWasmAuthenticationAndAuthorization.Shared.dll
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Shared\obj\Debug\net6.0\BlazorWasmAuthenticationAndAuthorization.Shared.pdb
+C:\Programing\C#Practise\BlazorMapAndLogin-main (1)\BlazorMapAndLogin-main\Shared\obj\Debug\net6.0\ref\BlazorWasmAuthenticationAndAuthorization.Shared.dll

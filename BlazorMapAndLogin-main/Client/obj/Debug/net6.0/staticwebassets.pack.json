@@ -1,0 +1,141 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\obj\\Debug\\net6.0\\build-gz\\V+JatkLx.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorWasmAuthenticationAndAuthorization.Client.styles.css",
+      "PackagePath": "staticwebassets\\BlazorWasmAuthenticationAndAuthorization.Client.styles.css"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\HanshinIMG.png",
+      "PackagePath": "staticwebassets\\HanshinIMG.png"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\Js\\map.js",
+      "PackagePath": "staticwebassets\\Js\\map.js"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\data.js",
+      "PackagePath": "staticwebassets\\data.js"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\images.jpg",
+      "PackagePath": "staticwebassets\\images.jpg"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\lib\\openlayers\\ol-layerswitcher.css",
+      "PackagePath": "staticwebassets\\lib\\openlayers\\ol-layerswitcher.css"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\lib\\openlayers\\ol-layerswitcher.js",
+      "PackagePath": "staticwebassets\\lib\\openlayers\\ol-layerswitcher.js"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\lib\\openlayers\\ol.css",
+      "PackagePath": "staticwebassets\\lib\\openlayers\\ol.css"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\lib\\openlayers\\ol.css.map",
+      "PackagePath": "staticwebassets\\lib\\openlayers\\ol.css.map"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\lib\\openlayers\\ol.js",
+      "PackagePath": "staticwebassets\\lib\\openlayers\\ol.js"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\lib\\openlayers\\ol.js.map",
+      "PackagePath": "staticwebassets\\lib\\openlayers\\ol.js.map"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\lib\\openlayers\\proj4.js",
+      "PackagePath": "staticwebassets\\lib\\openlayers\\proj4.js"
+    },
+    {
+      "Id": "D:\\my project\\Highway\\BlazorWasmAuthenticationAndAuthorization\\Client\\wwwroot\\lib\\proj4register.js",
+      "PackagePath": "staticwebassets\\lib\\proj4register.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlazorWasmAuthenticationAndAuthorization.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BlazorWasmAuthenticationAndAuthorization.Client.props",
+      "PackagePath": "build\\BlazorWasmAuthenticationAndAuthorization.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorWasmAuthenticationAndAuthorization.Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazorWasmAuthenticationAndAuthorization.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BlazorWasmAuthenticationAndAuthorization.Client.props",
+      "PackagePath": "buildTransitive\\BlazorWasmAuthenticationAndAuthorization.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

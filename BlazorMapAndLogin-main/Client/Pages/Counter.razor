@@ -1,0 +1,45 @@
+﻿@page "/counter"
+@inject IJSRuntime js
+@inject Blazored.SessionStorage.ISessionStorageService sessionStorage
+@attribute [Authorize(Roles = "Administrator,User")]
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount</p>
+@*<>@</>*@
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@if(UserName !=null){
+    <p>@UserName</p>
+}
+<InputFile OnChange="@LoadFiles" multiple />
+
+@code {
+    //private Task<AuthenticationState> authenticationState { get; set; }
+    private string UserName { get; set; }
+    private int currentCount = 0;
+
+    protected override async Task OnInitializedAsync()
+    {
+        UserName = await sessionStorage.GetItemAsync<string>("name");
+
+    }
+
+    private async void IncrementCount()
+    {
+        // ClaimsPrincipal
+        //var authState = await authenticationState;
+        //UserName = authState.User.Identity.Name;
+        UserName = await sessionStorage.GetItemAsync<string>("name");
+
+        currentCount++;
+    }
+    private void LoadFiles(InputFileChangeEventArgs e)
+    {
+        
+    }
+
+}
